@@ -1,0 +1,8 @@
+E:\C#Programs\UserValidationOfFillingImage\UserValidationOfFillingImage\bin\Debug\UserValidationOfFillingImage.exe
+E:\C#Programs\UserValidationOfFillingImage\UserValidationOfFillingImage\obj\Debug\UserValidationOfFillingImage.frmMain.resources
+E:\C#Programs\UserValidationOfFillingImage\UserValidationOfFillingImage\obj\Debug\UserValidationOfFillingImage.Properties.Resources.resources
+E:\C#Programs\UserValidationOfFillingImage\UserValidationOfFillingImage\obj\Debug\UserValidationOfFillingImage.csproj.GenerateResource.Cache
+E:\C#Programs\UserValidationOfFillingImage\UserValidationOfFillingImage\obj\Debug\UserValidationOfFillingImage.exe
+E:\C#Programs\UserValidationOfFillingImage\UserValidationOfFillingImage\obj\Debug\UserValidationOfFillingImage.pdb
+E:\C#Programs\UserValidationOfFillingImage\UserValidationOfFillingImage\bin\Debug\UserValidationOfFillingImage.pdb
+E:\C#Programs\UserValidationOfFillingImage\UserValidationOfFillingImage\obj\Debug\UserValidationOfFillingImage.csprojResolveAssemblyReference.cache
